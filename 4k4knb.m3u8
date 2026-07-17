@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://skunkytv.live/play/live.php?mac=00:1A:79:44:C3:47&stream=1394422&extension=ts&play_token=biTKxorWMb&sn2=
